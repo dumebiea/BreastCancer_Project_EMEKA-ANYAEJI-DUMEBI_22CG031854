@@ -1,6 +1,6 @@
-Name: Ekpokpobe Oghenetejiri Great
-Matric Number: 22CH032007
+Name: Emeka Anyaeji Dumebi
+Matric Number: 22CG031854
 Machine Learning Algorithm Used: Support Vector Machine (SVM)
 Model persistence method used: Joblib
-Live URL of the hosted application: https://breastcancer-project-ekpokpobe.onrender.com
+Live URL of the hosted application: https://breastcancer-project-emeka-anyaeji.onrender.com
 GitHub repository link: https://github.com/dumebiea/BreastCancer_Project_EMEKA-ANYAEJI-DUMEBI_22CG031854

@@ -3,4 +3,4 @@ Matric Number: 22CH032007
 Machine Learning Algorithm Used: Support Vector Machine (SVM)
 Model persistence method used: Joblib
 Live URL of the hosted application: https://breastcancer-project-ekpokpobe.onrender.com
-GitHub repository link: https://github.com/oekpokpobe2202349-dotcom/BreastCancer_Project_Ekpokpobe-Oghenetejiri-Great_22CH032007
+GitHub repository link: https://github.com/dumebiea/BreastCancer_Project_EMEKA-ANYAEJI-DUMEBI_22CG031854
